@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8373aa6ce474f934388cde88c834cd08, type: 3}
+  m_Name: Sandman
+  m_EditorClassIdentifier: 
+  CardName: Sandman
+  Set: 0
+  Copies: 1
+  SmallCardImage: {fileID: 0}
+  LargeCardImage: {fileID: 0}
+  Type: 3
+  Scheme: 2
+  Attack: 3
+  HitPoints: 4
+  Phase: 0
+  ThreatCondition: 0
+  AccelerationField: 0
+  StartingThreat: 0
+  SideSchemeIcon: 0
+  NextScheme: {fileID: 0}
+  Boosts: 2
+  Star: 0
+  Hero: 0
